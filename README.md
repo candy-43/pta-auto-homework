@@ -35,3 +35,11 @@ pta-auto-homework/
 ## License
 
 [MIT](./LICENSE)
+
+## Buy Me a Coffee
+
+如果这个项目帮到了你，欢迎微信扫码请我喝杯咖啡：
+
+<p align="center">
+  <img src="assets/wechat-reward-qr.png" alt="微信收款码" width="260">
+</p>
