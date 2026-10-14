@@ -38,8 +38,10 @@ pta-auto-homework/
 
 ## Buy Me a Coffee
 
-如果这个项目帮到了你，欢迎微信扫码请我喝杯咖啡：
+如果这个项目帮到了你，欢迎请我喝杯咖啡（微信 / 支付宝扫码均可）：
 
 <p align="center">
-  <img src="assets/wechat-reward-qr.png" alt="微信收款码" width="260">
+  <img src="assets/wechat-reward-qr.png" alt="微信收款码" width="240">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/alipay-reward-qr.jpg" alt="支付宝收款码" width="240">
 </p>
